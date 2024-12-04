@@ -9,9 +9,10 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #D8BFD8;
     color: #333;
     padding: 20px;
+    text-align: center; /* Center all text */
 }
 
 /* Header styling */
